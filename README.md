@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on **React Projects**
 - 📢 Reach me out:
 
-[![Twitter Badge](https://img.shields.io/badge/-@ReactYogi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ReactYogi)](https://twitter.com/ReactYogi) [![Instagram Badge](https://img.shields.io/badge/-@react.yogi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/react.yogi) [![Mail Badge](https://img.shields.io/badge/-reactyogi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:reactyogi@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@ReactYogi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ReactYogi)](https://twitter.com/ReactYogi) [![Instagram Badge](https://img.shields.io/badge/-@reactyogi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/reactyogi) [![Mail Badge](https://img.shields.io/badge/-reactyogi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:reactyogi@gmail.com)
 
 #
 
